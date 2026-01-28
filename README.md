@@ -39,7 +39,7 @@ A powerful, privacy-focused AI chatbot built with Streamlit, featuring chat memo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/bharath2957s/gemma3-chatbot.git
+git clone https://github.com/bharath2957s/-gemma3-ai-assistant-.git
 cd gemma3-chatbot
 ```
 
